@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="BIOCSS.css" rel="stylesheet" />
+    <title>Project </title>
+</head>
+<div class="WEBSITE">
+<body>
+    <header>
+
+        <div class="NAV">
+        
+                    <li><a href="BIOHTML.html">Introduction</a></li>
+  
+                    <li><a href="PAGETWOBIO.html">Main Interests</a></li>
+
+                    <li><a href="MUSICTASTE.html">My Music Taste</a></li>
+                   
+                
+                </div>         
+            </header>
+
+        <body>
+            <div class="SOAD">
+                <a href="https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"> <img src="systemofadown.png" width="80%" height="80%" alt="Markiplier LOGO"></a>
+                 </div>
+
+                 <div class="Deftones">
+                    <a href="https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"> <img src="Deftones.jpg" width="80%" height="80%" alt="Deftones LOGO"></a>
+                     </div>
+
+                     <div class="Slipknot">
+                        <a href="https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"> <img src="Slipknot.png" width="80%" height="80%" alt="Slipknot LOGO"></a>
+                         </div>
+
+                         <div class="MASA">
+                            <a href="https://open.spotify.com/artist/4KCNieFVZXwH2iZLX2D0cF"> <img src="MASAWORK.jpeg" width="80%" height="80%" alt="MASA LOGO"></a>
+                             </div>
+
+                 <div class="Duster">
+                    <a href="https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"> <img src="DUSTER.jpeg" width="80%" height="80%" alt="Duster LOGO"></a>
+                     </div>
+
+                     <div class="Korn">
+                        <a href="https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"> <img src="KORN.png" width="80%" height="80%" alt="Slipknot LOGO"></a>
+                         </div>
+
+                         <div class="playlist">
+                         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3sSgXyPvG40fqiKbRbMYrA?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+                        </div>
+                        <div class="MusicText">
+
+                        <h3> Here is my playlist, If you want to listen to it</h3>
+                        <img src="moon.gif" width="80%" height="80%" alt="Duster LOGO"></a>
+                    </div>
+        </body>
+          </html>
+             
